@@ -296,7 +296,7 @@
 | [Langfuse](https://github.com/langfuse/langfuse) | Open-source LLM observability | ![Stars](https://img.shields.io/github/stars/langfuse/langfuse?style=flat-square) |
 | [Phoenix](https://github.com/Arize-ai/phoenix) | AI observability & evaluation | ![Stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=flat-square) |
 | [Helicone](https://github.com/Helicone/helicone) | Open-source LLM observability | ![Stars](https://img.shields.io/github/stars/Helicone/helicone?style=flat-square) |
-| [Lunary](https://github.com/lunary-ai/lunary) | Production toolkit for LLMs | ![Stars](https://img.shields.io/github/stars/lunary-ai/lunary?style=flat-square) |
+| [Lunary](https://lunary.ai) | Production toolkit for LLMs | N/A |
 | [OpenLIT](https://github.com/openlit/openlit) | OpenTelemetry-native LLM observability | ![Stars](https://img.shields.io/github/stars/openlit/openlit?style=flat-square) |
 | [Evidently](https://github.com/evidentlyai/evidently) | ML and LLM observability framework | ![Stars](https://img.shields.io/github/stars/evidentlyai/evidently?style=flat-square) |
 | [DeepEval](https://github.com/confident-ai/deepeval) | LLM evaluation framework | ![Stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=flat-square) |
@@ -348,7 +348,7 @@
 | [GitHub Copilot](https://github.com/features/copilot) | AI pair programmer | N/A |
 | [Cursor](https://cursor.sh/) | AI-first code editor | N/A |
 | [Continue](https://github.com/continuedev/continue) | Open-source AI code assistant | ![Stars](https://img.shields.io/github/stars/continuedev/continue?style=flat-square) |
-| [Cody](https://github.com/sourcegraph/cody) | AI coding assistant | ![Stars](https://img.shields.io/github/stars/sourcegraph/cody?style=flat-square) |
+| [Cody](https://sourcegraph.com/cody) | AI coding assistant | N/A |
 | [Tabby](https://github.com/TabbyML/tabby) | Self-hosted AI coding assistant | ![Stars](https://img.shields.io/github/stars/TabbyML/tabby?style=flat-square) |
 
 ### Notebooks & Workspaces
